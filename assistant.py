@@ -1,7 +1,7 @@
 import time
 import conditions
 while True:
-    text = input(" : ")
+    text = input(" :")
     if text == "exit":
         break
     else:
